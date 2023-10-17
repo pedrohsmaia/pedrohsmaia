@@ -8,7 +8,13 @@
 
 ### Tools and Technologies
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="width: 48px" title="react" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" title="javascript" /> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" title="html" /> <img src="https://img.icons8.com/color/48/000000/css3.png" title="css" /> <img src="https://img.icons8.com/color/48/000000/python--v1.png" title="python" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="width: 48px" title="react" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> 
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" title="javascript" />
+<img src="https://img.icons8.com/color/48/000000/python--v1.png" title="python" /> 
 
 ### Currently learning
 
