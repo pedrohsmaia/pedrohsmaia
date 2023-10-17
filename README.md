@@ -17,8 +17,8 @@
 ##
 <div>
   <a href="https://github.com/Rylams">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rylams&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rylams&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohsmaia&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrohsmaia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ##
