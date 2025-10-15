@@ -3,8 +3,9 @@
 ## Welcome to my GitHub profile! 👋
 
 - 📚 Information Systems Student - Universidade Técnologica Federal do Paraná
-- 🔭 I’m currently working with some Java projects
-- 👩‍💻 Challenging myself to learn React
+- 🔭 I’m currently working with some React Native projects
+- 👩‍💻 Working on serverless projects with high scalability
+
 
 ### Tools and Technologies
 
